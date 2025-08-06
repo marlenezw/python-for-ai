@@ -4,6 +4,8 @@
 
 Hi! I'm so glad you've decided to start your journey with Python and AI. Python is a powerful but friendly language and I'm hoping that as you complete each chapter you'll feel confident enough to use it for AI! You're in exactly the right place!
 
+You can find the step by step tutorial here [https://marlenezw.github.io/python-for-ai/01-code-editor/](https://marlenezw.github.io/python-for-ai/01-code-editor/)
+
 ## What You'll Learn
 
 In this series of lessons you'll discover:
